@@ -447,13 +447,13 @@ margin: 10px 0 5px;
 
 .secondpage {
   flex-direction: column;
-  height: 100vh;
+  height: 150vh;
   width: auto;
   padding: 20px 0;
   }
 .firstdiv, .seconddiv {
   width: 80%;
-  height: 45vh;
+  height: 40vh;
   margin: 20px auto;
   }
 .menu-image {
