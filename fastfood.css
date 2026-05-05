@@ -447,16 +447,17 @@ margin: 10px 0 5px;
 
 .secondpage {
   flex-direction: column;
-  height: auto;
+  height: 100vh;
   width: auto;
   padding: 20px 0;
   }
 .firstdiv, .seconddiv {
-  width: 90%;
+  width: 80%;
+  height: 45vh;
   margin: 20px auto;
   }
 .menu-image {
-  height: 250px;
+  height: 200px;
   }
 #logoimg {
   top: 55px;
