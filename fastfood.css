@@ -102,7 +102,7 @@ span{
   flex-direction: row;
   align-items: center;
   grid-column: span 2 ;
-  height: 115vh;
+  height: 100vh;
   background-image: url("./images/secondpage.png");
   background-size: cover;
   background-position: fixed;
@@ -111,13 +111,13 @@ span{
   justify-content: space-around;
 }
 .firstdiv{
-    height: 50vh;
+    height: 80vh;
     width: 35%;
     margin-left: 100px;
     margin-top: -200px; 
 }
 .seconddiv{
-    height: 50vh;
+    height: 80vh;
     width: 35%;
     margin-right: 100px;
     margin-bottom: 10px;
