@@ -389,8 +389,22 @@ margin: 10px 0 5px;
   }
 .nameoffastfood p{
   font-size:1rem;
-  width:80%
+  width:80%;
   }
+  .secondpage {
+  flex-direction: column;
+  height: 150vh;
+  width: auto;
+  padding: 20px 0;
+  }
+.firstdiv, .seconddiv {
+  width: 80%;
+  height: 40vh;
+  margin: 20px auto;
+  }
+.menu-image {
+  height: 200px;
+}
 }
 
 
