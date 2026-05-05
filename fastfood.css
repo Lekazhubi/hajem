@@ -111,13 +111,13 @@ span{
   justify-content: space-around;
 }
 .firstdiv{
-    height: 80vh;
+    height: 70vh;
     width: 35%;
     margin-left: 100px;
     margin-top: -200px; 
 }
 .seconddiv{
-    height: 80vh;
+    height: 70vh;
     width: 35%;
     margin-right: 100px;
     margin-bottom: 10px;
